@@ -13,8 +13,6 @@
 
 A website for a veterinary clinic in Craiova, Romania, developed from an initial self-hosted deployment into a bilingual cloud-hosted site with appointment requests. The work covers the visitor experience, email workflow, request protection, domain migration and ongoing maintenance.
 
-> This presentation repository remains private. Public release requires the owner's explicit instruction.
-
 ## At a glance
 
 | Scope | Implemented |
@@ -126,7 +124,7 @@ The cloud adaptation was separated from the original site. Deployment work inclu
 | October 2026 | Vercel migration with shared protection and deployment-specific fixes |
 | November 2026 | Revised hours and online consultation content, analytics and redirect maintenance |
 
-The [detailed timeline](docs/delivery-and-history.md#original-application-milestones) records real source revisions. The [commit history of this repository](https://github.com/mihai-arnautu/veterom/commits/main/) records the presentation work from November onward. GitHub's optional Insights charts may depend on plan and repository visibility.
+The [detailed timeline](docs/delivery-and-history.md#original-application-milestones) records real source revisions. The [commit history of this repository](https://github.com/mihai-arnautu/veterom/commits/main/) records the presentation work from November onward. Explore the [repository activity](https://github.com/mihai-arnautu/veterom/activity) and [commit activity chart](https://github.com/mihai-arnautu/veterom/graphs/commit-activity) for the actual history of this presentation.
 
 ## Scope and ownership
 

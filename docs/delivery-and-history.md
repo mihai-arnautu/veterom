@@ -68,4 +68,4 @@ During migration, the original source and runtime were preserved. Restoring an e
 - [Presentation commit history](https://github.com/mihai-arnautu/veterom/commits/main/)
 - [Repository activity](https://github.com/mihai-arnautu/veterom/activity)
 
-The portfolio repository was created in November 2026. Its activity reflects changes to the case study; the table above records the earlier application history. GitHub's more detailed Insights graphs depend on repository visibility and account plan.
+The portfolio repository was created in November 2026. Its activity reflects changes to the case study; the table above records the earlier application history. The [commit activity chart](https://github.com/mihai-arnautu/veterom/graphs/commit-activity) provides GitHub's view of those presentation commits.
